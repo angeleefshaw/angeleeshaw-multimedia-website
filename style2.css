@@ -1,0 +1,32 @@
+*{
+    padding: 0 12px;
+    overflow-x: inherit
+}
+nav {
+    height: 100px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+}
+
+nav a {
+    display: flex;
+    flex-direction: column;
+    float: right;
+    margin: 10px 0 0 0;
+    text-decoration: none;
+    color:gray
+}
+
+nav a:hover {
+    text-decoration: none;
+    color:black;
+    font-size: 35px;
+    border-style: solid;
+    border-color:  rgba(255, 166, 0, 0.849);
+    border-radius: 5px;
+    
+}
+
+body {
+    height: auto;
+}
