@@ -2,6 +2,7 @@
     padding: 0 12px;
     overflow-x: inherit
 }
+
 nav {
     height: 100px;
     font-family: 'Bebas Neue', cursive;
@@ -145,26 +146,36 @@ nav a:hover {
 
 
 }
+
+.image-1 {
+    display: flex;
+}
+
+
+/* canvas page*/
+.container-1 {
+    height: 400px;
+    padding: 100px 50px;
+    margin-bottom: 200px;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.description {
+    justify-content: center;
+    display: flex;
+}
+
 .content-1 {
     padding-top: 100px;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-.image-1 {
-    display: flex;
-}
-
-/* bg-overlay.transparent-dark {
-    background-color: rgba(0,0,0,.51);. */
-
-
-/* 
-}
- .col-6 a:hover {
-    /* webkit-filter: blur(20px);  */
-    /* filter: blur(2px);
-    background-color: rgba(0,0,0,.51);
-    display: hide;
-
-} */ 
