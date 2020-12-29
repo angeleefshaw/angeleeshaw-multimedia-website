@@ -145,6 +145,15 @@ nav a:hover {
 
 
 }
+.content-1 {
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.image-1 {
+    display: flex;
+}
 
 /* bg-overlay.transparent-dark {
     background-color: rgba(0,0,0,.51);. */
