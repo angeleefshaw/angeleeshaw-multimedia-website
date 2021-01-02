@@ -203,8 +203,7 @@ nav a:hover {
 }
 
 .image-1 {
-    /* display: flex; */
-    text-align: center;
+    display: flex;
 }
 
 
@@ -213,7 +212,6 @@ nav a:hover {
 .clearfix {
     overflow: hidden;
     clear: both;
-    width: 100%;
 }
 
 .container-1 {
@@ -345,11 +343,6 @@ nav.mobile ul {
     padding: 20px 0 0;
 }
 
-.canvas .row {
-    text-align: center;
-    margin-bottom: 40px;
-}
-
 @media only screen and (max-width: 980px) {
     .burger {
         display: block;
@@ -360,7 +353,6 @@ nav.mobile ul {
     }
     nav.desktop {
         height: auto;
-        overflow: hidden;
     }
     .name {
         padding-top: 14px;
