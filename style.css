@@ -416,6 +416,9 @@ nav.mobile ul {
     .footer {
         height: 50px;
     }
+    .hide-on-mobile {
+        display: none;
+    }
 }
 
 @media only screen and (max-width: 600px) {
@@ -430,4 +433,9 @@ nav.mobile ul {
         flex: 0 0 100% !important;
         max-width: 100% !important;
     }
+    .hide-on-mobile {
+        display: none;
+    }
+
+    
 }
