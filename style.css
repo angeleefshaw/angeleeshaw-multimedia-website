@@ -3,6 +3,10 @@
     box-sizing: border-box;
 }
 
+.wf-loading body {
+    visibility: hidden;
+}
+
 img {
     max-width: 100%;
     height: auto;
