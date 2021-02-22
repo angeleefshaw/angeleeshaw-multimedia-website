@@ -9,23 +9,3 @@ $(document).ready(function() {
     });
 });
 
-
-// $(".canvas").on("click", function(e) {
-//     e.preventDefault();
-
-
-//     console.log('canvas clicked')
-// });
-
-// $(".digital").on("click", function(e) {
-//     e.preventDefault()
-
-//     console.log('canvas clicked')
-// });
-
-// $(".photograhy").on("click", function(e) {
-//     e.preventDefault()
-
-//     console.log('canvas clicked')
-// });
-
