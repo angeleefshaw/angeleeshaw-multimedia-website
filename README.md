@@ -2,7 +2,7 @@
   
   A way to display my photography, digital and classical artworks 
  
-  [:point_right: Live Site  ](https://angeleefshaw.github.io/fullstack-portfolio/ "Fullstack Portfolio")
+  [:point_right: Live Site  ]()
 
   ## Description 
 
