@@ -1,6 +1,6 @@
   # multimedia-website
   
-  A way to display photography, digital and classical artworks 
+  A way to display my photography, digital and classical artworks 
  
   [:point_right: Live Site  ](https://angeleefshaw.github.io/fullstack-portfolio/ "Fullstack Portfolio")
 
